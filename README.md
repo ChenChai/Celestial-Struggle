@@ -1,4 +1,4 @@
 # Celestial Struggle
 
 
-Welcome to Celestial Struggle, a simple android game I coded to learn the basics of Android Studio.
+Welcome to Celestial Struggle, a simple Android game which I'll gradually build by integrating knowledge from online tutorials.
